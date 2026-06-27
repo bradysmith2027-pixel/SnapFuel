@@ -1,0 +1,709 @@
+{
+    "apple_pie": {
+        "fdc_id": 2288447,
+        "usda_food_name": "APPLE PIE",
+        "data_type": "Branded",
+        "serving_size_g": 113.0,
+        "calories_per_serving": 354.0
+    },
+    "baby_back_ribs": {
+        "fdc_id": 1457876,
+        "usda_food_name": "BABY BACK RIBS",
+        "data_type": "Branded",
+        "serving_size_g": 112.0,
+        "calories_per_serving": 170.0
+    },
+    "baklava": {
+        "fdc_id": 2708044,
+        "usda_food_name": "Baklava",
+        "data_type": "Survey (FNDDS)",
+        "serving_size_g": 100,
+        "calories_per_serving": 440.0
+    },
+    "beef_carpaccio": {
+        "fdc_id": 2612998,
+        "usda_food_name": "TRUFFLE CARPACCIO",
+        "data_type": "Branded",
+        "serving_size_g": 100,
+        "calories_per_serving": 600.0
+    },
+    "beef_tartare": {
+        "fdc_id": 2706394,
+        "usda_food_name": "Steak tartare",
+        "data_type": "Survey (FNDDS)",
+        "serving_size_g": 100,
+        "calories_per_serving": 216.0
+    },
+    "beet_salad": {
+        "fdc_id": 1922885,
+        "usda_food_name": "BEET SALAD",
+        "data_type": "Branded",
+        "serving_size_g": 227.0,
+        "calories_per_serving": 93.0
+    },
+    "beignets": {
+        "fdc_id": 2320752,
+        "usda_food_name": "MINI APPLE FLAVORED BEIGNETS, MINI APPLE",
+        "data_type": "Branded",
+        "serving_size_g": 50.0,
+        "calories_per_serving": 400.0
+    },
+    "bibimbap": {
+        "fdc_id": 2708950,
+        "usda_food_name": "Bibimbap, Korean",
+        "data_type": "Survey (FNDDS)",
+        "serving_size_g": 100,
+        "calories_per_serving": 76.0
+    },
+    "bread_pudding": {
+        "fdc_id": 2381798,
+        "usda_food_name": "BREAD PUDDING",
+        "data_type": "Branded",
+        "serving_size_g": 99.0,
+        "calories_per_serving": 222.0
+    },
+    "breakfast_burrito": {
+        "fdc_id": 170787,
+        "usda_food_name": "Fast foods, breakfast burrito, with egg, cheese, and sausage",
+        "data_type": "SR Legacy",
+        "serving_size_g": 100,
+        "calories_per_serving": 277.0
+    },
+    "bruschetta": {
+        "fdc_id": 2707652,
+        "usda_food_name": "Bruschetta",
+        "data_type": "Survey (FNDDS)",
+        "serving_size_g": 100,
+        "calories_per_serving": 171.0
+    },
+    "caesar_salad": {
+        "fdc_id": 2709591,
+        "usda_food_name": "Caesar salad, with romaine, no dressing",
+        "data_type": "Survey (FNDDS)",
+        "serving_size_g": 100,
+        "calories_per_serving": 77.0
+    },
+    "cannoli": {
+        "fdc_id": 1942720,
+        "usda_food_name": "CANNOLI",
+        "data_type": "Branded",
+        "serving_size_g": 95.0,
+        "calories_per_serving": 328.0
+    },
+    "caprese_salad": {
+        "fdc_id": 1950083,
+        "usda_food_name": "CAPRESE SALAD",
+        "data_type": "Branded",
+        "serving_size_g": 191.0,
+        "calories_per_serving": 152.0
+    },
+    "carrot_cake": {
+        "fdc_id": 2265380,
+        "usda_food_name": "CARROT CAKE",
+        "data_type": "Branded",
+        "serving_size_g": 86.0,
+        "calories_per_serving": 372.0
+    },
+    "ceviche": {
+        "fdc_id": 2706463,
+        "usda_food_name": "Ceviche",
+        "data_type": "Survey (FNDDS)",
+        "serving_size_g": 100,
+        "calories_per_serving": 63.0
+    },
+    "cheese_plate": {
+        "fdc_id": 167671,
+        "usda_food_name": "CRACKER BARREL, macaroni n' cheese plate, from kid's menu",
+        "data_type": "SR Legacy",
+        "serving_size_g": 100,
+        "calories_per_serving": 192.0
+    },
+    "cheesecake": {
+        "fdc_id": 1938600,
+        "usda_food_name": "CHEESECAKE",
+        "data_type": "Branded",
+        "serving_size_g": 113.0,
+        "calories_per_serving": 381.0
+    },
+    "chicken_curry": {
+        "fdc_id": 2706437,
+        "usda_food_name": "Chicken curry",
+        "data_type": "Survey (FNDDS)",
+        "serving_size_g": 100,
+        "calories_per_serving": 107.0
+    },
+    "chicken_quesadilla": {
+        "fdc_id": 1940403,
+        "usda_food_name": "CHICKEN QUESADILLA",
+        "data_type": "Branded",
+        "serving_size_g": 113.0,
+        "calories_per_serving": 239.0
+    },
+    "chicken_wings": {
+        "fdc_id": 2100942,
+        "usda_food_name": "CHICKEN WINGS",
+        "data_type": "Branded",
+        "serving_size_g": 112.0,
+        "calories_per_serving": 196.0
+    },
+    "chocolate_cake": {
+        "fdc_id": 2092208,
+        "usda_food_name": "CHOCOLATE CAKE",
+        "data_type": "Branded",
+        "serving_size_g": 66.0,
+        "calories_per_serving": 439.0
+    },
+    "chocolate_mousse": {
+        "fdc_id": 175015,
+        "usda_food_name": "Pie, chocolate mousse, prepared from mix, no-bake type",
+        "data_type": "SR Legacy",
+        "serving_size_g": 100,
+        "calories_per_serving": 260.0
+    },
+    "churros": {
+        "fdc_id": 2708070,
+        "usda_food_name": "Churros",
+        "data_type": "Survey (FNDDS)",
+        "serving_size_g": 100,
+        "calories_per_serving": 419.0
+    },
+    "clam_chowder": {
+        "fdc_id": 1916483,
+        "usda_food_name": "CLAM CHOWDER",
+        "data_type": "Branded",
+        "serving_size_g": 245.0,
+        "calories_per_serving": 118.0
+    },
+    "club_sandwich": {
+        "fdc_id": 170753,
+        "usda_food_name": "Fast foods, crispy chicken, bacon, and tomato club sandwich, with cheese, lettuce, and mayonnaise",
+        "data_type": "SR Legacy",
+        "serving_size_g": 100,
+        "calories_per_serving": 257.0
+    },
+    "crab_cakes": {
+        "fdc_id": 2381781,
+        "usda_food_name": "CRAB CAKES",
+        "data_type": "Branded",
+        "serving_size_g": 113.0,
+        "calories_per_serving": 239.0
+    },
+    "creme_brulee": {
+        "fdc_id": 2705684,
+        "usda_food_name": "Creme brulee",
+        "data_type": "Survey (FNDDS)",
+        "serving_size_g": 100,
+        "calories_per_serving": 113.0
+    },
+    "croque_madame": {
+        "fdc_id": 2439059,
+        "usda_food_name": "MADAME GOUGOUSSE, INSTANT OATS",
+        "data_type": "Branded",
+        "serving_size_g": 40.0,
+        "calories_per_serving": 375.0
+    },
+    "cup_cakes": {
+        "fdc_id": 2707875,
+        "usda_food_name": "Cake, fruit cake",
+        "data_type": "Survey (FNDDS)",
+        "serving_size_g": 100,
+        "calories_per_serving": 324.0
+    },
+    "deviled_eggs": {
+        "fdc_id": 2094667,
+        "usda_food_name": "DEVILED EGGS",
+        "data_type": "Branded",
+        "serving_size_g": 28.0,
+        "calories_per_serving": 286.0
+    },
+    "donuts": {
+        "fdc_id": 2055870,
+        "usda_food_name": "DONUTS",
+        "data_type": "Branded",
+        "serving_size_g": 57.0,
+        "calories_per_serving": 404.0
+    },
+    "dumplings": {
+        "fdc_id": 173488,
+        "usda_food_name": "Babyfood, dinner, vegetables and dumplings and beef, junior",
+        "data_type": "SR Legacy",
+        "serving_size_g": 100,
+        "calories_per_serving": 48.0
+    },
+    "edamame": {
+        "fdc_id": 2550119,
+        "usda_food_name": "EDAMAME",
+        "data_type": "Branded",
+        "serving_size_g": 100,
+        "calories_per_serving": 106.0
+    },
+    "eggs_benedict": {
+        "fdc_id": 2707180,
+        "usda_food_name": "Egg, Benedict",
+        "data_type": "Survey (FNDDS)",
+        "serving_size_g": 100,
+        "calories_per_serving": 288.0
+    },
+    "escargots": {
+        "fdc_id": 1860629,
+        "usda_food_name": "ESCARGOTS SNAILS",
+        "data_type": "Branded",
+        "serving_size_g": 59.0,
+        "calories_per_serving": 85.0
+    },
+    "falafel": {
+        "fdc_id": 172455,
+        "usda_food_name": "Falafel, home-prepared",
+        "data_type": "SR Legacy",
+        "serving_size_g": 100,
+        "calories_per_serving": 333.0
+    },
+    "filet_mignon": {
+        "fdc_id": 2068002,
+        "usda_food_name": "FILET MIGNON",
+        "data_type": "Branded",
+        "serving_size_g": 112.0,
+        "calories_per_serving": 196.0
+    },
+    "fish_and_chips": {
+        "fdc_id": 174195,
+        "usda_food_name": "Fish, fish sticks, frozen, prepared",
+        "data_type": "SR Legacy",
+        "serving_size_g": 100,
+        "calories_per_serving": 277.0
+    },
+    "foie_gras": {
+        "fdc_id": 171100,
+        "usda_food_name": "Pate de foie gras, canned (goose liver pate), smoked",
+        "data_type": "SR Legacy",
+        "serving_size_g": 100,
+        "calories_per_serving": 462.0
+    },
+    "french_fries": {
+        "fdc_id": 169009,
+        "usda_food_name": "APPLEBEE'S, french fries",
+        "data_type": "SR Legacy",
+        "serving_size_g": 100,
+        "calories_per_serving": 290.0
+    },
+    "french_onion_soup": {
+        "fdc_id": 461428,
+        "usda_food_name": "FRENCH ONION SOUP",
+        "data_type": "Branded",
+        "serving_size_g": 285.0,
+        "calories_per_serving": 70.0
+    },
+    "french_toast": {
+        "fdc_id": 2708338,
+        "usda_food_name": "French toast sticks",
+        "data_type": "Survey (FNDDS)",
+        "serving_size_g": 100,
+        "calories_per_serving": 278.0
+    },
+    "fried_calamari": {
+        "fdc_id": 2368666,
+        "usda_food_name": "FRIED CALAMARI RINGS",
+        "data_type": "Branded",
+        "serving_size_g": 57.0,
+        "calories_per_serving": 272.0
+    },
+    "fried_rice": {
+        "fdc_id": 1917356,
+        "usda_food_name": "FRIED RICE",
+        "data_type": "Branded",
+        "serving_size_g": 120.0,
+        "calories_per_serving": 183.0
+    },
+    "frozen_yogurt": {
+        "fdc_id": 168104,
+        "usda_food_name": "Frozen yogurts, chocolate",
+        "data_type": "SR Legacy",
+        "serving_size_g": 100,
+        "calories_per_serving": 131.0
+    },
+    "garlic_bread": {
+        "fdc_id": 167939,
+        "usda_food_name": "Garlic bread, frozen",
+        "data_type": "SR Legacy",
+        "serving_size_g": 100,
+        "calories_per_serving": 350.0
+    },
+    "gnocchi": {
+        "fdc_id": 2708721,
+        "usda_food_name": "Gnocchi, cheese",
+        "data_type": "Survey (FNDDS)",
+        "serving_size_g": 100,
+        "calories_per_serving": 178.0
+    },
+    "greek_salad": {
+        "fdc_id": 2709830,
+        "usda_food_name": "Greek Salad, no dressing",
+        "data_type": "Survey (FNDDS)",
+        "serving_size_g": 100,
+        "calories_per_serving": 48.0
+    },
+    "grilled_cheese_sandwich": {
+        "fdc_id": 2705801,
+        "usda_food_name": "Grilled cheese sandwich, NFS",
+        "data_type": "Survey (FNDDS)",
+        "serving_size_g": 100,
+        "calories_per_serving": 343.0
+    },
+    "grilled_salmon": {
+        "fdc_id": 1928614,
+        "usda_food_name": "GRILLED SALMON",
+        "data_type": "Branded",
+        "serving_size_g": 116.0,
+        "calories_per_serving": 103.0
+    },
+    "guacamole": {
+        "fdc_id": 1922901,
+        "usda_food_name": "GUACAMOLE",
+        "data_type": "Branded",
+        "serving_size_g": 28.0,
+        "calories_per_serving": 89.0
+    },
+    "gyoza": {
+        "fdc_id": 2297219,
+        "usda_food_name": "GYOZA DIPPING SAUCE, GYOZA",
+        "data_type": "Branded",
+        "serving_size_g": 100,
+        "calories_per_serving": 133.0
+    },
+    "hamburger": {
+        "fdc_id": 170717,
+        "usda_food_name": "McDONALD'S, Hamburger",
+        "data_type": "SR Legacy",
+        "serving_size_g": 100,
+        "calories_per_serving": 264.0
+    },
+    "hot_and_sour_soup": {
+        "fdc_id": 2707136,
+        "usda_food_name": "Soup, hot and sour",
+        "data_type": "Survey (FNDDS)",
+        "serving_size_g": 100,
+        "calories_per_serving": 39.0
+    },
+    "hot_dog": {
+        "fdc_id": 168560,
+        "usda_food_name": "Pickle relish, hot dog",
+        "data_type": "SR Legacy",
+        "serving_size_g": 100,
+        "calories_per_serving": 91.0
+    },
+    "huevos_rancheros": {
+        "fdc_id": 2707191,
+        "usda_food_name": "Huevos rancheros",
+        "data_type": "Survey (FNDDS)",
+        "serving_size_g": 100,
+        "calories_per_serving": 121.0
+    },
+    "hummus": {
+        "fdc_id": 2422987,
+        "usda_food_name": "HUMMUS",
+        "data_type": "Branded",
+        "serving_size_g": 28.0,
+        "calories_per_serving": 250.0
+    },
+    "ice_cream": {
+        "fdc_id": 2100807,
+        "usda_food_name": "ICE CREAM",
+        "data_type": "Branded",
+        "serving_size_g": 65.0,
+        "calories_per_serving": 200.0
+    },
+    "lasagna": {
+        "fdc_id": 2708750,
+        "usda_food_name": "Lasagna with meat",
+        "data_type": "Survey (FNDDS)",
+        "serving_size_g": 100,
+        "calories_per_serving": 139.0
+    },
+    "lobster_bisque": {
+        "fdc_id": 1859121,
+        "usda_food_name": "LOBSTER BISQUE",
+        "data_type": "Branded",
+        "serving_size_g": 245.0,
+        "calories_per_serving": 147.0
+    },
+    "lobster_roll_sandwich": {
+        "fdc_id": 2706349,
+        "usda_food_name": "Lobster",
+        "data_type": "Survey (FNDDS)",
+        "serving_size_g": 100,
+        "calories_per_serving": 97.0
+    },
+    "macaroni_and_cheese": {
+        "fdc_id": 2618433,
+        "usda_food_name": "MACARONI AND CHEESE",
+        "data_type": "Branded",
+        "serving_size_g": 100,
+        "calories_per_serving": 102.0
+    },
+    "macarons": {
+        "fdc_id": 577342,
+        "usda_food_name": "MACARONS",
+        "data_type": "Branded",
+        "serving_size_g": 30.0,
+        "calories_per_serving": 467.0
+    },
+    "miso_soup": {
+        "fdc_id": 2147271,
+        "usda_food_name": "MISO SOUP",
+        "data_type": "Branded",
+        "serving_size_g": 623.7000122070312,
+        "calories_per_serving": 26.0
+    },
+    "mussels": {
+        "fdc_id": 2706350,
+        "usda_food_name": "Mussels",
+        "data_type": "Survey (FNDDS)",
+        "serving_size_g": 100,
+        "calories_per_serving": 109.0
+    },
+    "nachos": {
+        "fdc_id": 170336,
+        "usda_food_name": "TACO BELL, Nachos",
+        "data_type": "SR Legacy",
+        "serving_size_g": 100,
+        "calories_per_serving": 350.0
+    },
+    "omelette": {
+        "fdc_id": 2504183,
+        "usda_food_name": "SHAKSHUKA OMELETTE SAUCE, SHAKSHUKA OMELETTE",
+        "data_type": "Branded",
+        "serving_size_g": 100,
+        "calories_per_serving": 56.0
+    },
+    "onion_rings": {
+        "fdc_id": 1904109,
+        "usda_food_name": "ONION RINGS",
+        "data_type": "Branded",
+        "serving_size_g": 28.0,
+        "calories_per_serving": 500.0
+    },
+    "oysters": {
+        "fdc_id": 2708747,
+        "usda_food_name": "Dressing with oysters",
+        "data_type": "Survey (FNDDS)",
+        "serving_size_g": 100,
+        "calories_per_serving": 189.0
+    },
+    "pad_thai": {
+        "fdc_id": 2708806,
+        "usda_food_name": "Pad Thai with chicken",
+        "data_type": "Survey (FNDDS)",
+        "serving_size_g": 100,
+        "calories_per_serving": 154.0
+    },
+    "paella": {
+        "fdc_id": 2706711,
+        "usda_food_name": "Paella with seafood",
+        "data_type": "Survey (FNDDS)",
+        "serving_size_g": 100,
+        "calories_per_serving": 143.0
+    },
+    "pancakes": {
+        "fdc_id": 2708308,
+        "usda_food_name": "Pancakes, chocolate",
+        "data_type": "Survey (FNDDS)",
+        "serving_size_g": 100,
+        "calories_per_serving": 341.0
+    },
+    "panna_cotta": {
+        "fdc_id": 2059670,
+        "usda_food_name": "GELATO, PANNA COTTA",
+        "data_type": "Branded",
+        "serving_size_g": 100.0,
+        "calories_per_serving": 220.0
+    },
+    "peking_duck": {
+        "fdc_id": 2284808,
+        "usda_food_name": "PEKING DUCK SAUCE",
+        "data_type": "Branded",
+        "serving_size_g": 33.0,
+        "calories_per_serving": 273.0
+    },
+    "pho": {
+        "fdc_id": 2707124,
+        "usda_food_name": "Soup, pho, with meat",
+        "data_type": "Survey (FNDDS)",
+        "serving_size_g": 100,
+        "calories_per_serving": 77.0
+    },
+    "pizza": {
+        "fdc_id": 2629362,
+        "usda_food_name": "PIZZA",
+        "data_type": "Branded",
+        "serving_size_g": 100,
+        "calories_per_serving": 199.0
+    },
+    "pork_chop": {
+        "fdc_id": 2705872,
+        "usda_food_name": "Pork, chop, stuffed",
+        "data_type": "Survey (FNDDS)",
+        "serving_size_g": 100,
+        "calories_per_serving": 190.0
+    },
+    "poutine": {
+        "fdc_id": 2669381,
+        "usda_food_name": "POUTINE MACARONI AND CHEESE, POUTINE",
+        "data_type": "Branded",
+        "serving_size_g": 100,
+        "calories_per_serving": 379.0
+    },
+    "prime_rib": {
+        "fdc_id": 2413850,
+        "usda_food_name": "PRIME RIB RUB, PRIME RIB",
+        "data_type": "Branded",
+        "serving_size_g": 100,
+        "calories_per_serving": "N/A"
+    },
+    "pulled_pork_sandwich": {
+        "fdc_id": 2090206,
+        "usda_food_name": "PREMIUM PULLED PORK SANDWICHES",
+        "data_type": "Branded",
+        "serving_size_g": 128.0,
+        "calories_per_serving": 188.0
+    },
+    "ramen": {
+        "fdc_id": 171177,
+        "usda_food_name": "Soup, ramen noodle, any flavor, dry",
+        "data_type": "SR Legacy",
+        "serving_size_g": 100,
+        "calories_per_serving": 440.0
+    },
+    "ravioli": {
+        "fdc_id": 173328,
+        "usda_food_name": "Ravioli, cheese-filled, canned",
+        "data_type": "SR Legacy",
+        "serving_size_g": 100,
+        "calories_per_serving": 77.0
+    },
+    "red_velvet_cake": {
+        "fdc_id": 2151914,
+        "usda_food_name": "RED VELVET CAKE",
+        "data_type": "Branded",
+        "serving_size_g": 92.0,
+        "calories_per_serving": 435.0
+    },
+    "risotto": {
+        "fdc_id": 777970,
+        "usda_food_name": "RISOTTO",
+        "data_type": "Branded",
+        "serving_size_g": 70.0,
+        "calories_per_serving": 157.0
+    },
+    "samosa": {
+        "fdc_id": 2708730,
+        "usda_food_name": "Samosa",
+        "data_type": "Survey (FNDDS)",
+        "serving_size_g": 100,
+        "calories_per_serving": 310.0
+    },
+    "sashimi": {
+        "fdc_id": 2196025,
+        "usda_food_name": "SASHIMI",
+        "data_type": "Branded",
+        "serving_size_g": 147.0,
+        "calories_per_serving": 102.0
+    },
+    "scallops": {
+        "fdc_id": 2706359,
+        "usda_food_name": "Scallops, fried",
+        "data_type": "Survey (FNDDS)",
+        "serving_size_g": 100,
+        "calories_per_serving": 217.0
+    },
+    "seaweed_salad": {
+        "fdc_id": 1935825,
+        "usda_food_name": "SEAWEED SALAD",
+        "data_type": "Branded",
+        "serving_size_g": 28.0,
+        "calories_per_serving": 125.0
+    },
+    "shrimp_and_grits": {
+        "fdc_id": 2509825,
+        "usda_food_name": "SHRIMP AND GRITS",
+        "data_type": "Branded",
+        "serving_size_g": 100,
+        "calories_per_serving": 126.0
+    },
+    "spaghetti_bolognese": {
+        "fdc_id": 2601287,
+        "usda_food_name": "SPAGHETTI BOLOGNESE ITALIAN RECIPE SPAGHETTI WITH BEEF BOLOGNESE SAUCE, SPAGHETTI BOLOGNESE",
+        "data_type": "Branded",
+        "serving_size_g": 100,
+        "calories_per_serving": 112.0
+    },
+    "spaghetti_carbonara": {
+        "fdc_id": 356547,
+        "usda_food_name": "CREAMY CARBONARA SPAGHETTI",
+        "data_type": "Branded",
+        "serving_size_g": 50.0,
+        "calories_per_serving": 400.0
+    },
+    "spring_rolls": {
+        "fdc_id": 2375659,
+        "usda_food_name": "SPRING ROLL COMBO, SPRING ROLL",
+        "data_type": "Branded",
+        "serving_size_g": 539.0,
+        "calories_per_serving": 135.0
+    },
+    "steak": {
+        "fdc_id": 2706747,
+        "usda_food_name": "Pepper steak",
+        "data_type": "Survey (FNDDS)",
+        "serving_size_g": 100,
+        "calories_per_serving": 145.0
+    },
+    "strawberry_shortcake": {
+        "fdc_id": 2707896,
+        "usda_food_name": "Cake, strawberry shortcake",
+        "data_type": "Survey (FNDDS)",
+        "serving_size_g": 100,
+        "calories_per_serving": 214.0
+    },
+    "sushi": {
+        "fdc_id": 2708959,
+        "usda_food_name": "Sushi, NFS",
+        "data_type": "Survey (FNDDS)",
+        "serving_size_g": 100,
+        "calories_per_serving": 94.0
+    },
+    "tacos": {
+        "fdc_id": 170736,
+        "usda_food_name": "TACO BELL, Taco Salad",
+        "data_type": "SR Legacy",
+        "serving_size_g": 100,
+        "calories_per_serving": 170.0
+    },
+    "takoyaki": {
+        "fdc_id": "N/A",
+        "usda_food_name": "No USDA match for 'takoyaki'",
+        "data_type": "N/A",
+        "serving_size_g": "N/A",
+        "calories_per_serving": "N/A"
+    },
+    "tiramisu": {
+        "fdc_id": 2705702,
+        "usda_food_name": "Tiramisu",
+        "data_type": "Survey (FNDDS)",
+        "serving_size_g": 100,
+        "calories_per_serving": 353.0
+    },
+    "tuna_tartare": {
+        "fdc_id": 2706394,
+        "usda_food_name": "Steak tartare",
+        "data_type": "Survey (FNDDS)",
+        "serving_size_g": 100,
+        "calories_per_serving": 216.0
+    },
+    "waffles": {
+        "fdc_id": 2093968,
+        "usda_food_name": "WAFFLES",
+        "data_type": "Branded",
+        "serving_size_g": 70.0,
+        "calories_per_serving": 300.0
+    }
+}
