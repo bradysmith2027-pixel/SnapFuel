@@ -6,7 +6,7 @@ SnapFuel is an AI-powered food recognition and calorie estimation app built with
 
 🔗 **[Try the Live Demo on Hugging Face](https://huggingface.co/spaces/Bman321/SnapFuel)**
 
-📓 **[View the Model Training Notebook](notebooks/snapfuel_training.ipynb)** — Full pipeline including data preprocessing, EfficientNetB0 fine-tuning, and evaluation
+📓 **[View the Model Training Notebook](notebooks/snapfuel_training)** — Full pipeline including data preprocessing, EfficientNetB0 fine-tuning, and evaluation
 
 ---
 
